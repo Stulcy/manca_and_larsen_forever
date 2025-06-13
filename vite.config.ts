@@ -5,7 +5,6 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/manca_and_larsen_forever",
   plugins: [react(), mode === "development" && componentTagger()].filter(
     Boolean
   ),
@@ -14,4 +13,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "/manca_and_larsen_forever",
 }));

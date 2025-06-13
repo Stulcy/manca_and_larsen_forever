@@ -13,5 +13,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/manca_and_larsen_forever",
+  base: "/manca_and_larsen_forever/",
 }));

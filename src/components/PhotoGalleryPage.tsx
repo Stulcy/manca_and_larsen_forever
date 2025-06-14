@@ -37,11 +37,6 @@ const PhotoGalleryPage = ({ onNext }: PhotoGalleryPageProps) => {
       alt: "Friend group photo 3",
       src: "e.jpeg",
     },
-    {
-      id: 4,
-      alt: "Friend group photo 4",
-      src: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=200&h=200&fit=crop&crop=center",
-    },
   ];
   return (
     <div className="h-full flex flex-col px-6 py-8 overflow-y-auto">

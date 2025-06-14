@@ -78,18 +78,29 @@ const PersonalMessagePage = ({ onRestart }: PersonalMessagePageProps) => {
           className="text-gray-700 leading-relaxed space-y-4"
         >
           <p className="italic">
-            Poti življenja je nešteto, ampak samo ena je samo vajina. ~Ula
+            Poti življenja je nešteto, ampak samo ena je samo vajina.
+            <br />
+            ~Ula & Žiga~
           </p>
 
           <p>
-            May this gift bring you both joy and create beautiful memories as
-            you begin this wonderful adventure together.
+            Verjemita v nekaj – pa naj bo to v drug drugega.
+            <br />
+            Hvaležen sem, da sem vaju lahko tako dobro spoznal v relativno
+            kratkem času, a hkrati imam občutek, kot da se poznamo že veliko
+            dlje. Sta par, vreden občudovanja – pravi dynamic duo. Lahko sta za
+            zgled, tako skupaj kot vsak zase. Iskreno vama želim, da se vajina
+            pot nadaljuje v ljubezni, sreči in uspehu, ter da se naše poti čim
+            večkrat križajo.
+            <br />
+            ~Anze~
           </p>
 
-          <p className="text-sm text-gray-500 mt-6">
-            With all my love,
-            <br />
-            <span className="font-medium">[Your name]</span>
+          <p>
+            Mal je ljudi za katere bi šla na drug konc sveta. Za vaju zmer. Za
+            popotnico pa: Centa čas k ga mata en z drugim, spoštujta se,
+            zaupajta si, pa bodta potrpežljiva en z drugim. Love you forever. 💛
+            <br />~ Nika & Rok~
           </p>
         </motion.div>
       </motion.div>
